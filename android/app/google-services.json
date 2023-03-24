@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778660396772",
+    "project_id": "global-nri",
+    "storage_bucket": "global-nri.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778660396772:android:73df8ad3f8224c469036f1",
+        "android_client_info": {
+          "package_name": "com.example.nri_global"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778660396772-s6rj07qamfmv9vi5ts5erh74ctoseuig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5fZlSQ568N-55R6ZywVr2bVRJGL5sPoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778660396772-s6rj07qamfmv9vi5ts5erh74ctoseuig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
